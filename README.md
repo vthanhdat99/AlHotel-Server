@@ -1,6 +1,4 @@
-# Stay Mate Hotel - Web Service
 
-This is the Web Service (Server) portion of our final project of the Service Oriented Software Development course.
 
 ## Table of Contents
 
